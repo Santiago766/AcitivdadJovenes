@@ -1,4 +1,6 @@
 <Doctype htlm5>
-<h1>Hola<h1>
-<h2>JovenesCreativos<h2>
+<h1>Hola</h1>
+<h2>JovenesCreativos</h2>
+<button>Entrar</button>
+<p>Click para entrar</p>
 <html5>
