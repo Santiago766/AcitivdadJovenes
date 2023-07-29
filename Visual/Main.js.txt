@@ -1,0 +1,5 @@
+const abrir = Document.getbyclass("Click");
+
+abrir.addevenlisening('click') => {
+	
+}
